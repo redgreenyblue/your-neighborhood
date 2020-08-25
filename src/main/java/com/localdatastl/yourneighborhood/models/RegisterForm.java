@@ -1,6 +1,6 @@
 package com.localdatastl.yourneighborhood.models;
 
-public class RegisterForm extends LoginForm {
+public class RegisterForm extends Login {
 
     private String verifyPassword;
 
